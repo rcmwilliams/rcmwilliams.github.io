@@ -2,5 +2,14 @@ p {
 	text-align:center;
 	font-family:Garamond;
 	font-size:15px;
-	background-color:fafafa;
+}
+img {
+	margin:auto;
+	display:block;
+}
+h1 {
+	text-align:center;
+}
+body{
+	background-color:#fafafa;
 }
