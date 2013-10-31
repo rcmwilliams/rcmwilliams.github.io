@@ -1,0 +1,196 @@
+
+body{
+background-color:#ffffff;
+height:100%;
+padding-bottom:50px;
+margin:0;
+}
+header{
+	width:100%;
+	text-align:center;
+	background-color:#333333;
+	color:#fafafa;
+	padding:5px;
+}
+.sidebar{
+width:;
+}
+#profile{
+	width:200px;
+	padding:3px;
+	background-color:#333333;
+}
+#aboutme{
+	background-color:#333333;
+	color:#fafafa;
+	padding:10px;
+}
+img{
+	display:block;
+	margin:20px auto;
+}
+h2{
+	text-align:center;
+	margin:10px auto;
+	top:5px;
+	background-color:#333333;
+	color:#fafafa;
+	width:75%;
+	font-style:italic;
+
+}
+section{
+	float:right;
+	width:80%;
+}
+aside{
+	float:left;
+	width:15%;
+	background-color:#333333;
+	color:#fafafa;
+}
+section p{
+	margin-top:0px;
+}
+footer{
+	position:fixed;
+	bottom:0px;
+	width:100%;
+	padding-top:10px;
+	padding-bottom:5px;
+	color:#fafafa;
+	background-color:#333333;
+	text-align:center;
+	font-size:.75em;
+}
+footer ul li{
+	list-style:none;
+	display:inline;
+}
+footer ul li a:link,a:active,a:visited{
+	text-align:center;
+	text-decoration:none;
+	color:#fafafa;
+}
+footer ul li a:hover{
+	color:#c0c0c0;
+	font-style:italic;
+}
+
+/*
+div{
+	color:#000000;
+	text-align:center;
+	font-family:Garamond;
+	font-size:20px;
+	width:300px;
+	margin:auto;
+	padding-top:1px;
+	padding-left:10px; 
+	padding-right:10px;
+	padding-bottom:10px;
+	background-color:#ffffff;
+	border-radius:10px;
+}
+#aboutme{
+	
+}
+#small{
+	font-size:18px;
+}
+#banner{
+	width:800px;
+	margin:auto;
+	padding-left:100px;
+	padding-right:100px;
+	background-color:#333333;
+}
+img {
+	margin:auto;
+	display:block;
+}
+hr {
+	width:50%;
+}
+h1{
+	font-size:25px;
+	font-style:italic;
+	text-decoration:underline;
+}
+#header{
+
+}
+header {
+	text-align:center;
+	color:#222222;
+	font-style: italic;
+	font-weight:bold;
+	font-size:35px;
+}
+
+body{
+background-color:#cccccc;
+height:100%;
+padding-bottom:100px;
+margin:0;
+}
+li #front{
+	border-bottom-left-radius:10px;
+}
+li #end{
+	border-bottom-right-radius:10px;
+}
+nav {
+	display:block;
+	width:636px;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:20px;
+	font-style:italic;
+}
+nav ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+nav li{
+	display:inline;
+	float:left;
+}
+
+li a:link,a:visited{
+	display:block;
+	color:#fafafa;
+	width:100px;
+	background-color:#333333;
+	text-align:center;
+	font-weight:bold;
+	padding:3px;
+	text-decoration:none;
+}
+li a:hover,a:active{
+	background-color:#cccccc;
+	color:#333333;
+}
+
+#profile{
+	background-color:#cccccc;
+	padding:3px;
+	width:200px;
+}
+*/
+/* gradient code
+IE10 Consumer Preview
+background: -ms-linear-gradient(top, #5A5A5A 0%, #000000 100%);
+Mozilla Firefox
+background: -moz-linear-gradient(top, #5A5A5A 0%, #000000 100%);
+Opera
+background: -o-linear-gradient(top, #5A5A5A 0%, #000000 100%);
+Webkit (Safari/Chrome 10)
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5A5A5A), color-stop(1, #000000));
+Webkit (Chrome 11+)
+background: -webkit-linear-gradient(top, #5A5A5A 0%, #000000 100%);
+W3C Markup, IE10 Release Preview
+background: linear-gradient(to bottom, #5A5A5A 0%, #000000 100%);
+*/
